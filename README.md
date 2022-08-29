@@ -7,9 +7,9 @@ $ yarn build # npm run build
 ````
 
 ## Development
-
+```
 $ npm start
-
+```
 ## Errors:
 
 error at npm start
